@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background: linear-gradient(120deg, rgba(0,0,36,1) 0%, rgba(41,212,83,0.8) 35%, rgba(103,230,179,0.7) 60%, rgba(200,255,213,1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+label{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+h2{
+    font-size: 35px;
+    color: rgb(2, 0, 9);
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+input {
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+input:focus {
+    border-color: rgb(99, 4, 99);
+    box-shadow: 0 0 5px rgba(99, 4, 99, 0.3);
+    outline: none;
+}
+
+.botao, .botaoApagar {
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: rgb(99, 4, 99);
+    color: white;
+    border: none;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.botao:hover, .botaoApagar:hover {
+    background-color: rgb(75, 2, 75);
+    transform: scale(1.05);
+}
+
+.botao:active, .botaoApagar:active {
+    transform: scale(1.02);
+}
