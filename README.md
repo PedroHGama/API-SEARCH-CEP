@@ -1,8 +1,4 @@
 
-# Olá, eu sou o Pedro 👋
-## 🚀 Sobre mim
-Eu sou desenvolvedor full-stack...
-
 # Consulta CEP
 
 A proposta para o desenvolvimento deste projeto foi consumir a API dos Correios e obter os dados respectivos do CEP pesquisado. Utilizando dos recursos aprendidos durante as aulas do curso Técnico de Desenvolvimento de Sistemas.
