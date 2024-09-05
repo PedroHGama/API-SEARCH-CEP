@@ -18,7 +18,7 @@ A proposta para o desenvolvimento deste projeto foi consumir a API dos Correior 
 
 <div align="center">
   <h3>Tela de Consulta</h3>
-  <img src="./assets/images/design-print.png" alt="tela de login" />
+  <img src="./images/tela%20de%20login.jpg" alt="tela de login" />
 </div>
 
 ## Aprendizados
