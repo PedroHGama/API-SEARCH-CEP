@@ -11,7 +11,7 @@ A proposta para o desenvolvimento deste projeto foi consumir a API dos Correior 
 ## Funcionalidades
 
 - Exibição da localização, Logardouro, Bairro, Cidade e Estado.
-- Personalização de estilo: o app que mostra a consulta do CNPJ foi personalizado com fontes, cores, tamanhos e formatos de exibição.
+- Personalização de estilo: o app que mostra a consulta do CEP foi personalizado com fontes, cores, tamanhos e formatos de exibição.
 - Botão limpar quando acionado limpa os campos de consulta.
 
 ## Screenshot
