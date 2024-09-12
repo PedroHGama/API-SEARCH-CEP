@@ -33,4 +33,4 @@ A proposta para o desenvolvimento deste projeto foi consumir a API dos Correios 
 
 ## 🧑 Autor
 
->[@PedroHGama](https://www.github.com/pedrohgama)
+>[Pedro Gama](https://www.github.com/pedrohgama)
