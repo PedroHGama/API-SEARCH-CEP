@@ -1,15 +1,15 @@
 
-# Consulta CEP
+# 📧 Consulta CEP
 
 A proposta para o desenvolvimento deste projeto foi consumir a API dos Correios e obter os dados respectivos do CEP pesquisado. Utilizando dos recursos aprendidos durante as aulas do curso Técnico de Desenvolvimento de Sistemas.
 - [ConsultaCNPJ](https://search-cep-api.vercel.app/)
-## Funcionalidades
+## 📌 Funcionalidades
 
 - Exibição da localização, Logardouro, Bairro, Cidade e Estado.
 - Personalização de estilo: o app que mostra a consulta do CEP foi personalizado com fontes, cores, tamanhos e formatos de exibição.
 - Botão limpar quando acionado limpa os campos de consulta.
 
-## Screenshot
+## 🌝 Demonstração
 
 <div align="center">
   <h3>Tela de Consulta</h3>
@@ -32,6 +32,6 @@ A proposta para o desenvolvimento deste projeto foi consumir a API dos Correios 
 - CSS
 - API Correios
 
-## Autores
+## 🧑 Autor
 
-- [@PedroHGama](https://www.github.com/pedrohgama)
+>[@PedroHGama](https://www.github.com/pedrohgama)
